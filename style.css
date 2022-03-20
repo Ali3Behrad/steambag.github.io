@@ -1,0 +1,51 @@
+*{
+    background-color: black;
+}
+
+h1{
+    color: red;
+    margin-left: 47%;
+}
+
+#user{
+    border-radius: 6px;
+    border-color: blue;
+    margin-left: 44%;
+    margin-top: 40px;
+}
+
+#user::placeholder{
+    color: red;
+    font-size: medium;
+    font-style: normal;
+    font-weight: 0;
+}
+
+#pass{
+    border-radius: 6px;
+    border-color: blue;
+    margin-top: 6px;
+    margin-left: 44%;
+    margin-top: 40px;
+}
+
+#pass::placeholder{
+    color: red;
+    font-size: medium;
+    font-style: normal;
+    font-weight: 0;
+}
+
+#sub{
+    margin-top: 6px;
+    border-radius: 6px;
+    border-color: blue;
+    margin-left: 47%;
+    margin-top: 40px;
+    color: red;
+}
+
+p{
+    color: blue;
+    margin-right: 60px;
+}
